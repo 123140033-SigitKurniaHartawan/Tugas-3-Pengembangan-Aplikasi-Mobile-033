@@ -24,4 +24,4 @@ Saat aplikasi dibuka, layar menampilkan foto profil, nama, NIM, bio, dan tombol 
 
 | Sebelum Tombol Ditekan | Sesudah Tombol Ditekan |
 |:---:|:---:|
-| ![before](<img width="300" height="1599" alt="Image" src="https://github.com/user-attachments/assets/56661d98-d656-495e-9abc-8453b9de91d7" />) | ![after](<img width="300" height="1599" alt="Image" src="https://github.com/user-attachments/assets/5b6eec2a-221f-47ab-9f6a-cc8e7d961d3d" />) |
+| <img width="300" height="1599" alt="Image" src="https://github.com/user-attachments/assets/56661d98-d656-495e-9abc-8453b9de91d7" /> | <img width="300" height="1599" alt="Image" src="https://github.com/user-attachments/assets/5b6eec2a-221f-47ab-9f6a-cc8e7d961d3d" /> |
